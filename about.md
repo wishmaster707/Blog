@@ -1,6 +1,5 @@
 ---
 layout: default
-nav: about
 comment: false
 ---
 
