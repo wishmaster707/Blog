@@ -7,7 +7,7 @@
     100% {
         transform: rotate(360deg);
 		-webkit-transform: rotate(360deg);
-        background: url(../images/avatar.jpg) center no-repeat;
+        background: url(../images/avatar.png) center no-repeat;
 		background-size: 100% 100%;
     }
 }
@@ -16,9 +16,9 @@
     width: 150px;
     height: 150px;
     border-radius: 95px;
-    border: 5px solid $light-blue;
-    background: url(../images/cartoon-avatar.jpg) center no-repeat;
-    background-size: 80% 80%;
+    border: 3px solid $light-blue;
+    background: url(../images/cartoon-avatar.png) center no-repeat;
+    background-size: 100% 100%;
     &:hover {
 	animation: rotateAvatar 1s ease;
 	-webkit-animation: rotateAvatar 1s ease;	/* Safari and Chrome */
