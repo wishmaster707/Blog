@@ -21,13 +21,12 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong  
+  disqus: xiaoyuan  
 # youyan uid  
-  youyan: 2122392 
+#  youyan: 2122392 
 
 # Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+google_analytics: #UA-82494501-1
 
 # Author information:
 author:
@@ -42,7 +41,7 @@ email:
 #facebook:           username
 github:              wishmaster707
 #stackoverflow:      
-#linkedin:           kongsong
+#linkedin:           username
 #xing:              username
 #instagram:          username
 #lastfm:            username
