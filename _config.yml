@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: L.7's Blog
+description: 就是那渴望 就是这书.
 logo: favicon.png
-url: kongsong.me
+url: jiaqi.li
 rss_url: /feed.xml
 
 # Jekyll
@@ -33,16 +33,16 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 author:
   resume: /resume
   name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
- 
+  about_me: 圆圆小脸
+  
 # Social Links
-email:               hi@kongsong.me
+email:               
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:           username
+github:              wishmaster707
+#stackoverflow:      
+#linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
