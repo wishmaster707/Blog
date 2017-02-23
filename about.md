@@ -1,7 +1,6 @@
 ---
 layout: default
-nav: home
-
+nav: about
 comment: false
 ---
 
