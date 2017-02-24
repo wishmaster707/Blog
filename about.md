@@ -1,6 +1,7 @@
 ---
 layout: default
 nav: about
+permalink: /About/
 comment: false
 share: false
 ---
