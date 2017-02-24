@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /Tags/
+description: "我的航海志"
+---
+
+	<section style="padding-bottom: 0">
+	<article class="wrapper">
+		<div class="post-header">
+			<h2 class="blue-title text-center">{{ page.title }}</h2>
+			<div class="line-highlight"><i class="fa fa-paw" aria-hidden="true"></i></div>
+		</div>
+		<div class="post-content">
+			{{ content }}
+		</div>
+	</article>
+	</section>
