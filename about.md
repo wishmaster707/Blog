@@ -6,4 +6,3 @@ comment: false
 
 {% include about.html %}
 {% include concert.html %}
-{% include projects.html %}
