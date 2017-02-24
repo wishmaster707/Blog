@@ -1,16 +1,11 @@
 ---
-layout: pages
+layout: default
 permalink: /Start/
 title: Start Guide
 excerpt: "开始一段新的旅程"
 share: false
-image:
-  feature: windows.jpg
-  credit: Azeril
-  creditlink: http://azeril.me/
 ---
 
-{% include _toc.html %}
 
 ## 博客迷你指南
 
