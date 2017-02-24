@@ -2,6 +2,7 @@
 layout: post
 permalink: /Start/
 title: Start Guide
+nav: about
 excerpt: "开始一段新的旅程"
 comment: false
 share: false
