@@ -5,4 +5,4 @@ comment: false
 ---
 
 {% include about.html %}
-{% include concert.html %}
+{% include band.html %}
