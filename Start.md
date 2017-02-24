@@ -285,7 +285,9 @@ Some [link](http://www.mademistakes.com) can also be shown.
 
 用法很简单，在博文正文开头（YAML 编码后，正文）添加以下代码片段，文章转化时会自动附加目录导航条：
 
-`{% include _toc.html %}`
+```
+{% include _toc.html %}
+```
 
 ## 多作者模式 Author Override
 
