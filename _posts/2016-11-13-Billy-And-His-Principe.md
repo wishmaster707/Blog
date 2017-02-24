@@ -4,9 +4,8 @@ title:  "让比利的归比利，蘑菇的归蘑菇。"
 categories: [Life, ]
 excerpt: 为什么人活的要有原则？对于这个问题我思考过许久。 
 tags:
-  - 李安
-  - 电影
-  - 评论
+  - Film
+  - Review
 ---
 
 ## 零

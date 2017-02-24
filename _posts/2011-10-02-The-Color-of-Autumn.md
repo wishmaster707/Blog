@@ -4,7 +4,7 @@ title:  "秋色"
 categories: [Life ]
 excerpt: 如果落寞的心境 可以淡出一湖秋色 我愿划桨，舟中浅唱。
 tags:
-  - 诗
+  - Poem
   - 
 ---
 
