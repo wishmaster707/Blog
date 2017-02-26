@@ -1,15 +1,8 @@
 #Site
-<<<<<<< HEAD
 title: L.7's Blog
 description: 就是那渴望 就是这书.
 logo: favicon.png
 url: jiaqi.li
-=======
-title: 水榭清松-Song Kong
-description: This is Song' home.
-logo: favicon.png
-url: kongsong.me
->>>>>>> songkong/gh-pages
 rss_url: /feed.xml
 
 # Jekyll
@@ -28,27 +21,16 @@ sass:
 
 # Comment
 comment:
-<<<<<<< HEAD
   disqus: xiaoyuan  
 # youyan uid  
 #  youyan: 2122392 
 
 # Website analytics
 google_analytics: #UA-82494501-1
-=======
-  disqus: kongsong  
-# youyan uid  
-  youyan: 2122392 
-
-# Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
->>>>>>> songkong/gh-pages
 
 # Author information:
 author:
   resume: /resume
-<<<<<<< HEAD
   name: Jiaqi #the name of Blog section
   about_me: 小圆脸的日常
   
@@ -60,19 +42,6 @@ email:
 github:              wishmaster707
 #stackoverflow:      
 #linkedin:           username
-=======
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
- 
-# Social Links
-email:               hi@kongsong.me
-#google.plus:        username
-#twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
->>>>>>> songkong/gh-pages
 #xing:              username
 #instagram:          username
 #lastfm:            username

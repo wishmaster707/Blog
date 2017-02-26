@@ -7,11 +7,7 @@
     100% {
         transform: rotate(360deg);
 		-webkit-transform: rotate(360deg);
-<<<<<<< HEAD
         background: url(../images/avatar.png) center no-repeat;
-=======
-        background: url(../images/avatar.jpg) center no-repeat;
->>>>>>> songkong/gh-pages
 		background-size: 100% 100%;
     }
 }
@@ -20,15 +16,9 @@
     width: 150px;
     height: 150px;
     border-radius: 95px;
-<<<<<<< HEAD
     border: 3px solid $light-blue;
     background: url(../images/cartoon-avatar.png) center no-repeat;
     background-size: 100% 100%;
-=======
-    border: 5px solid $light-blue;
-    background: url(../images/cartoon-avatar.jpg) center no-repeat;
-    background-size: 80% 80%;
->>>>>>> songkong/gh-pages
     &:hover {
 	animation: rotateAvatar 1s ease;
 	-webkit-animation: rotateAvatar 1s ease;	/* Safari and Chrome */
