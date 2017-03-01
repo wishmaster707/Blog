@@ -32,7 +32,9 @@ google_analytics: #UA-82494501-1
 author:
   resume: /resume
   name: Jiaqi #the name of Blog section
-  about_me: 吃尼妹的小鱼片
+  about_me:            
+                  吃尼妹的小鱼片
+  
   
 # Social Links
 email:               
