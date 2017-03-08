@@ -1,9 +1,9 @@
 
   nav {
     float: right;
-    margin: 2em 0 0 0;
+    margin: 1.5em 0 0 0;
     a {
-      color: $blue;
+      color: #ffef76;
       text-decoration: none;
       text-shadow: 1px 1px $white, 2px 2px $darker-white;
       &:not(:last-child) {
@@ -44,7 +44,7 @@
           pointer-events: none;
           cursor: auto;
           @include border-radius(0.3em);
-          background-color: $blue;
+          background-color: #ffef76;
           text-shadow: none;
           color: $white;
           box-shadow: 1px 1px 0 1px $darker-white;
