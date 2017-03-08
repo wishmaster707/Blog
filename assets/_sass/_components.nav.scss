@@ -3,7 +3,7 @@
     float: right;
     margin: 1.5em 0 0 0;
     a {
-      color: #ffef76;
+      color: #ff853b;
       text-decoration: none;
       text-shadow: 1px 1px $white, 2px 2px $darker-white;
       &:not(:last-child) {
@@ -44,7 +44,7 @@
           pointer-events: none;
           cursor: auto;
           @include border-radius(0.3em);
-          background-color: #ffef76;
+          background-color: #ff853b;
           text-shadow: none;
           color: $white;
           box-shadow: 1px 1px 0 1px $darker-white;
